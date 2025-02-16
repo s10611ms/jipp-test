@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Podaj swoje imię:");
+var name = Console.ReadLine();
+Console.WriteLine("Hello " + name);
+
+int result = 5 + 9;
