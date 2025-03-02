@@ -37,9 +37,9 @@ class Program
 
         // Zadanie 2 - Operacja na string i int
         Console.WriteLine("\nOperatory - Zadanie 2");
-        string myAge = "Age: ";
-        int wifeAge = 18;
-        string ageResult = myAge + wifeAge;  // Konkatenacja (łączenie) string + int
+        string Age = "Age: ";
+        int myAge = 21;
+        string ageResult = Age + myAge;  // Konkatenacja (łączenie) string + int
         Console.WriteLine(ageResult);
 
         // Zadanie 3 - Operacje logiczne
